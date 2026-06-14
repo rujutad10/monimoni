@@ -1,0 +1,6 @@
+sort by 
+    date
+    payee
+max amt paid each max to trxn 
+most often payed 
+and flag trxns above a certain limit 
